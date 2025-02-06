@@ -18,9 +18,9 @@ const HeroSection = () => {
     return (
         <div className='text-center'>
             <div className='flex flex-col gap-5 my-10'>
-                <span className=' mx-auto px-4 py-2 rounded-full bg-gray-100 text-[#F83002] font-medium'>CRC Job Portal</span>
+                <span className=' mx-auto px-4 py-2 rounded-full bg-gray-100 text-[#87227d] font-medium'>CRC Job Portal</span>
                 <h1 className='text-5xl font-bold'>Search and Apply <br /> To Your <span className='text-[#6A38C2]'>On Campus Opportunities</span></h1>
-                <p>Created By Khushi, Ketan and Banti</p>
+                <p>Created By Banti</p>
                 <div className='flex w-[40%] shadow-lg border border-gray-200 pl-3 rounded-full items-center gap-4 mx-auto'>
                     <input
                         type="text"
